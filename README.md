@@ -1,6 +1,27 @@
 ### Hi there 👋
 
-https://github-stats-evirunurm.vercel.app/api/stats.js?username=monkey999por
+##### my skills :
+- javascript/Typescript
+  - Next.js
+- Java
+  - Spring boot
+- C#
+  - Unity
+- Powershell
+- css
+  - sass
+  - Bootstrap
+
+<div display="flex"><p>aaa</p><p>aaa</p><p>aaa</p></div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monkey999por&theme=2077)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monkey999por&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monkey999por&theme=2077&utcOffset=8)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
